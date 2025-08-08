@@ -1,7 +1,7 @@
 ### Olá, eu sou o Pedro Paulo DEV! 👋
 
 <p align="left">
-  Sou um entusiasta de tecnologia e desenvolvimento de software, atualmente focado em aprimorar minhas habilidades em [adicione aqui, ex: Desenvolvimento Web com JavaScript e React]. Estou em busca de oportunidades para colaborar em projetos e transformar ideias em código.
+  Sou um entusiasta de tecnologia e desenvolvimento de software, atualmente focado em aprimorar minhas habilidades em . Estou em busca de oportunidades para colaborar em projetos e transformar ideias em código.
 </p>
 
 ---
