@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f5d1ee0b-b2ff-4848-97a5-19638c5f5a81" alt="Cyberpunk Wallpaper" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/317fbec9-5cd5-4616-af62-163524c9b1ed" alt="Cyberpunk Header" width="100%"/>
 </p>
 
 <h1 align="center">
@@ -9,36 +9,40 @@
 </h1>
 <h3 align="center">System.out.println("Hello, World! Welcome to my interface.");</h3>
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7be758fc-79a0-44d9-b011-5b51658a6984" alt="Divider" width="100%">
+</p>
 
-### `// ABOUT ME` <img src="https://github.com/user-attachments/assets/79cfe188-b90b-491b-948c-2b9a84794076" width="40">
-<p align="left">
-  > Developer immersed in the code matrix, with a terminal always open and a special focus on **Python** for data analysis and system automation.
+<h3 align="center">// ABOUT ME <img src="https://github.com/user-attachments/assets/79cfe188-b90b-491b-948c-2b9a84794076" height="45"></h3>
+<p align="center">
+  Developer immersed in the code matrix, with a terminal always open and a special focus on **Python** for data analysis and system automation.
   <br>
-  > Currently expanding my skillset and compiling new abilities with **Dart** and **Flutter** to build fluid and responsive cross-platform interfaces.
+  Currently expanding my skillset and compiling new abilities with **Dart** and **Flutter** to build fluid and responsive cross-platform interfaces.
   <br>
-  > Seeking to connect with projects where I can decipher complex problems and transcribe solutions into high-impact code.
+  Seeking to connect with projects where I can decipher complex problems and transcribe solutions into high-impact code.
 </p>
 <br>
 
-<details>
+<details align="center">
   <summary>🐍 Wanna play a quick game? (Click me!)</summary>
   <p align="center">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
   </p>
 </details>
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7be758fc-79a0-44d9-b011-5b51658a6984" alt="Divider" width="100%">
+</p>
 
-### `// PROJECT_MATRIX.log`
-<table>
+<h3 align="center">// PROJECT_MATRIX.log</h3>
+<table align="center">
   <tr>
-    <td width="60%" valign="top">
-      <h3 align="left">Featured Projects</h3>
-      <p align="left">
+    <td width="60%" valign="top" align="center">
+      <h3 align="center">Featured Projects</h3>
+      <p align="center">
         Here I showcase some of the projects I've worked on, from academic challenges to personal studies. For a detailed view of each project, including technologies used and key learnings, please visit my portfolio repository.
       </p>
-      <p align="left">
+      <p align="center">
         <a href="https://github.com/ZecaBigodinho/portfolio-de-projetos" target="_blank">
           <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00A36C?style=for-the-badge&logo=github&logoColor=white" />
         </a>
@@ -52,41 +56,45 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7be758fc-79a0-44d9-b011-5b51658a6984" alt="Divider" width="100%">
+</p>
 
-### `// TECH_ARSENAL.json`
+<h3 align="center">// TECH_ARSENAL.json <img src="https://github.com/user-attachments/assets/2790b60e-819e-4367-863c-1b79f2f50afe" height="40"></h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,html,css,wordpress,flutter,dart,androidstudio,mongodb,linux,vscode&theme=dark" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7be758fc-79a0-44d9-b011-5b51658a6984" alt="Divider" width="100%">
+</p>
 
-### `// SYSTEM_DIAGNOSTICS.log`
+<h3 align="center">// SYSTEM_DIAGNOSTICS.log</h3>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZecaBigodinho&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true" />
     <br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZecaBigodinho&layout=compact&langs_count=8&theme=cyberpunk" />
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7be758fc-79a0-44d9-b011-5b51658a6984" alt="Divider" width="100%">
+</p>
 
-### `// CONTACT_POINTS.cfg`
+<h3 align="center">// CONTACT_POINTS.cfg <img src="https://github.com/user-attachments/assets/337d1b62-94f8-4c2e-9ff1-6434f943a7d7" height="40"></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-paulo-968aaa1b7" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="pedro-paulo"/></a>
   <a href="mailto:pedropaulo4thre@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="pedro-paulo"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7be758fc-79a0-44d9-b011-5b51658a6984" alt="Divider" width="100%">
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0897fd7f-5905-4c85-9453-cc13a0d2da1b" alt="Visitors GIF" height="80">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZecaBigodinho&label=PROFILE%20VISITORS&color=F778BA&style=for-the-badge" alt="Profile Visitors"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f5d1ee0b-b2ff-4848-97a5-19638c5f5a81" alt="Cyberpunk Wallpaper Footer" width="100%"/>
 </p>
