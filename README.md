@@ -63,7 +63,8 @@
 ---
 
 <p align="center">
-  <img src="YOUR_SMALL_GIF_ABOVE_NAME_URL_HERE" alt="Small GIF Above Name" height="50">
+  <img src="(https://github.com/user-attachments/assets/01d03032-68f4-44f3-9e61-ae558d5f406c)
+" alt="Small GIF Above Name" height="50">
 </p>
 
 <p align="center">
