@@ -43,7 +43,7 @@
         Here I showcase some of the projects I've worked on, from academic challenges to personal studies. For a detailed view of each project, including technologies used and key learnings, please visit my portfolio repository.
       </p>
       <p align="center">
-        <a href="https://github.com/ZecaBigodinho/portfolio-de-projetos" target="_blank">
+        <a href="https://github.com/ZecaBigodinho/portfolio-de-projetos](https://github.com/ZecaBigodinho/meus-projetos" target="_blank">
           <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00A36C?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
