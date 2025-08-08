@@ -1,38 +1,47 @@
-### Olá, eu sou o Pedro Paulo! 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/01/96/db/0196db35ada133a061a63445a9eda0b3.gif" alt="Cyberpunk Header" width="100%"/>
+</p>
+
+<h1 align="center">Pedro Paulo DEV</h1>
+<h3 align="center">System.out.println("Olá, Mundo! Bem-vindo à minha interface.");</h3>
+
+---
+
+### `// SOBRE MIM`
 
 <p align="left">
-  Sou um entusiasta de tecnologia e desenvolvimento de software, atualmente focado em aprimorar minhas habilidades em . Estou em busca de oportunidades para colaborar em projetos e transformar ideias em código.
+  > Desenvolvedor imerso na matrix do código, com um terminal sempre aberto e um foco especial em **Python** para análise de dados e automação de sistemas.
+  <br>
+  > Atualmente, estou expandindo meu skillset e compilando novas habilidades com **Dart** e **Flutter** para construir interfaces cross-platform fluidas e responsivas.
+  <br>
+  > Busco me conectar a projetos onde posso decifrar problemas complexos e transcrever soluções em código de alto impacto.
 </p>
 
 ---
 
-### 🛠️ Habilidades (Skills)
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,vscode,figma,nodejs" />
-  </a>
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
+### `// ARSENAL_TECNOLOGICO.json`
 
 <p align="center">
-  <a href="https://github.com/ZecaBigodinho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZecaBigodinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZecaBigodinho&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,flutter,dart,mongodb,postgresql,sqlserver,json,vscode&theme=dark" />
   </a>
 </p>
 
 ---
 
-### 📫 Como me encontrar
+### `// DIAGNOSTICO_DO_SISTEMA.log`
 
-<p align="left">
-<a href="mailto:pedropaulo4thre@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZecaBigodinho&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true" />
+    <br><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZecaBigodinho&layout=compact&langs_count=8&theme=cyberpunk" />
+</p>
 
-<a href="[SEU LINK DO LINKEDIN AQUI]" alt="LinkedIn">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+---
+
+### `// PONTOS_DE_CONTATO.cfg`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-paulo-968aaa1b7" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="pedro-paulo"/></a>
+  <a href="mailto:pedropaulo4thre@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="pedro-paulo"/></a>
 </p>
