@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/01/96/db/0196db35ada133a061a63445a9eda0b3.gif" alt="Cyberpunk Header" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/f5d1ee0b-b2ff-4848-97a5-19638c5f5a81" alt="Cyberpunk Wallpaper" width="100%"/>
 </p>
 
 <h1 align="center">
@@ -11,11 +11,8 @@
 
 ---
 
-### `// ABOUT ME`
-
+### `// ABOUT ME` <img src="https://github.com/user-attachments/assets/79cfe188-b90b-491b-948c-2b9a84794076" width="40">
 <p align="left">
-  <img align="left" width="150" style="margin-right: 20px;" src="![212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3](https://github.com/user-attachments/assets/b8dff3f8-550b-4d5a-bd12-5cf6a1dd716d)
-" alt="Personal GIF">
   > Developer immersed in the code matrix, with a terminal always open and a special focus on **Python** for data analysis and system automation.
   <br>
   > Currently expanding my skillset and compiling new abilities with **Dart** and **Flutter** to build fluid and responsive cross-platform interfaces.
@@ -33,8 +30,31 @@
 
 ---
 
-### `// TECH_ARSENAL.json`
+### `// PROJECT_MATRIX.log`
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3 align="left">Featured Projects</h3>
+      <p align="left">
+        Here I showcase some of the projects I've worked on, from academic challenges to personal studies. For a detailed view of each project, including technologies used and key learnings, please visit my portfolio repository.
+      </p>
+      <p align="left">
+        <a href="https://github.com/ZecaBigodinho/portfolio-de-projetos" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00A36C?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="40%" valign="top">
+      <p align="center">
+        <img src="https://github.com/user-attachments/assets/f62badae-bd22-4d1b-b3ff-009f6f0ed1ba" alt="Projects GIF">
+      </p>
+    </td>
+  </tr>
+</table>
 
+---
+
+### `// TECH_ARSENAL.json`
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,html,css,wordpress,flutter,dart,androidstudio,mongodb,linux,vscode&theme=dark" />
@@ -44,7 +64,6 @@
 ---
 
 ### `// SYSTEM_DIAGNOSTICS.log`
-
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZecaBigodinho&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true" />
     <br><br>
@@ -54,7 +73,6 @@
 ---
 
 ### `// CONTACT_POINTS.cfg`
-
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-paulo-968aaa1b7" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="pedro-paulo"/></a>
   <a href="mailto:pedropaulo4thre@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="pedro-paulo"/></a>
@@ -63,16 +81,12 @@
 ---
 
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/01d03032-68f4-44f3-9e61-ae558d5f406c)
-" alt="Small GIF Above Name" height="50">
+  <img src="https://github.com/user-attachments/assets/0897fd7f-5905-4c85-9453-cc13a0d2da1b" alt="Visitors GIF" height="80">
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZecaBigodinho&label=PROFILE%20VISITORS&color=F778BA&style=for-the-badge" alt="Profile Visitors"/>
 </p>
 
 <p align="center">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=ZecaBigodinho">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ZecaBigodinho" alt="Visitor Badge"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="YOUR_WALLPAPER_GIF_URL_HERE" alt="Cyberpunk Wallpaper" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/f5d1ee0b-b2ff-4848-97a5-19638c5f5a81" alt="Cyberpunk Wallpaper Footer" width="100%"/>
 </p>
