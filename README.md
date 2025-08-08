@@ -98,3 +98,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZecaBigodinho&label=PROFILE%20VISITORS&color=F778BA&style=for-the-badge" alt="Profile Visitors"/>
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7be758fc-79a0-44d9-b011-5b51658a6984" alt="Divider" width="100%">
+</p>
