@@ -101,5 +101,6 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7be758fc-79a0-44d9-b011-5b51658a6984" alt="Divider" width="100%">
+  <img src="https://github.com/user-attachments/assets/ad2406dd-50df-4cab-a366-9aa4c195c4e3" alt="Divider" width="100%">
 </p>
+
