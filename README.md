@@ -1,4 +1,4 @@
-### Olá, eu sou o Pedro Paulo DEV! 👋
+### Olá, eu sou o Pedro Paulo! 👋
 
 <p align="left">
   Sou um entusiasta de tecnologia e desenvolvimento de software, atualmente focado em aprimorar minhas habilidades em . Estou em busca de oportunidades para colaborar em projetos e transformar ideias em código.
