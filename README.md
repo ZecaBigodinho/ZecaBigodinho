@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,wordpress,nodejs,flutter,dart,androidstudio,mongodb,linux,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,wordpress,flutter,dart,androidstudio,mongodb,linux,vscode&theme=dark" />
   </a>
 </p>
 
