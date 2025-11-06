@@ -73,11 +73,10 @@
 
 <h3 align="center"> // SYSTEM_DIAGNOSTICS.log </h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZecaBigodinho&show_icons=true&theme=cyberpunk" />
-  
-  <br><br>
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZecaBigodinho&layout=compact&langs_count=8&theme=cyberpunk" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=ZecaBigodinho&theme=cyberpunk&column=7&margin-w=15&margin-h=15" 
+    alt="ZecaBigodinho's GitHub Trophies" 
+  />
 </p>
 
 <h3 align="center">// CONTACT_POINTS.cfg <img src="https://github.com/user-attachments/assets/337d1b62-94f8-4c2e-9ff1-6434f943a7d7" height="40"></h3>
