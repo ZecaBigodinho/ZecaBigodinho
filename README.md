@@ -71,11 +71,13 @@
   <img src="https://github.com/user-attachments/assets/7be758fc-79a0-44d9-b011-5b51658a6984" alt="Divider" width="100%">
 </p>
 
-<h3 align="center">// SYSTEM_DIAGNOSTICS.log</h3>
+<h3 align="center"> // SYSTEM_DIAGNOSTICS.log </h3>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZecaBigodinho&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true" />
-    <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZecaBigodinho&layout=compact&langs_count=8&theme=cyberpunk" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZecaBigodinho&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true" />
+  
+  <br><br>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZecaBigodinho&layout=compact&langs_count=8&theme=cyberpunk" />
 </p>
 
 <p align="center">
