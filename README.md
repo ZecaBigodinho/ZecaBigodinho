@@ -73,15 +73,13 @@
 
 <h3 align="center"> // SYSTEM_DIAGNOSTICS.log </h3>
 <p align="center">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZecaBigodinho&show_icons=true&theme=cyberpunk" />
   
   <br><br>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZecaBigodinho&layout=compact&langs_count=8&theme=cyberpunk" />
-</p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7be758fc-79a0-44d9-b011-5b51658a6984" alt="Divider" width="100%">
 </p>
 
 <h3 align="center">// CONTACT_POINTS.cfg <img src="https://github.com/user-attachments/assets/337d1b62-94f8-4c2e-9ff1-6434f943a7d7" height="40"></h3>
