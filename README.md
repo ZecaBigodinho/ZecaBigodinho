@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=50&color=F778BA&vCenter=true&width=435&lines=Pedro+Paulo+DEV" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=50&color=F778BA&vCenter=true&width=435&lines=Pedro+Paulo+DEV" alt="Typing Pedro Paulo DEV">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=50&color=F778BA&center=true&vCenter=true&width=435&lines=Pedro+Paulo+DEV" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=50&color=F778BA&center=true&vCenter=true&width=435&lines=Pedro+Paulo+DEV" alt="Typing Pedro Paulo DEV">
   </a>
 </h1>
 <h3 align="center">System.out.println("Hello, World! Welcome to my interface.");</h3>
