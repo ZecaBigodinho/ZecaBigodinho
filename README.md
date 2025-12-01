@@ -72,8 +72,9 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZecaBigodinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZecaBigodinho&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZecaBigodinho&show_icons=true&theme=dracula" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZecaBigodinho&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <h3 align="center">// CONTACT_POINTS.cfg <img src="https://github.com/user-attachments/assets/337d1b62-94f8-4c2e-9ff1-6434f943a7d7" height="40"></h3>
 <p align="center">
