@@ -26,7 +26,7 @@
 <details align="center">
   <summary>🐍 Wanna play a quick game? (Click me!)</summary>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+    <img src="https://github.com/ZecaBigodinho/ZecaBigodinho/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
   </p>
 </details>
 
@@ -71,14 +71,14 @@
   <img src="https://github.com/user-attachments/assets/7be758fc-79a0-44d9-b011-5b51658a6984" alt="Divider" width="100%">
 </p>
 
-<p align="center">
-  <img src="metrics.svg" alt="GitHub Metrics" />
-</p>
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZecaBigodinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZecaBigodinho&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <h3 align="center">// CONTACT_POINTS.cfg <img src="https://github.com/user-attachments/assets/337d1b62-94f8-4c2e-9ff1-6434f943a7d7" height="40"></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-paulo-968aaa1b7" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="pedro-paulo"/></a>
-  <a href="mailto:pedropaulo4thre@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="pedro-paulo"/></a>
+  <a href="mailto:pedropaulo4hire@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="pedro-paulo"/></a>
 </p>
 
 <p align="center">
@@ -92,8 +92,6 @@
   <img src="https://komarev.com/ghpvc/?username=ZecaBigodinho&label=PROFILE%20VISITORS&color=F778BA&style=for-the-badge" alt="Profile Visitors"/>
 </p>
 
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ad2406dd-50df-4cab-a366-9aa4c195c4e3" alt="Divider" width="100%">
 </p>
-
