@@ -72,7 +72,9 @@
 </p>
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ZecaBigodinho&theme=dracula" alt="Pedro Paulo Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZecaBigodinho&theme=dracula" height="180" alt="streak" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZecaBigodinho&theme=dracula" height="180" alt="languages" />
 </div>
 <h3 align="center">// CONTACT_POINTS.cfg <img src="https://github.com/user-attachments/assets/337d1b62-94f8-4c2e-9ff1-6434f943a7d7" height="40"></h3>
 <p align="center">
